@@ -1,2 +1,2 @@
 # nodejs-demo
-NodeJS and Express Demo
+NodeJS and Express Demo for personal learning.
